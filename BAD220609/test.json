@@ -32,7 +32,7 @@
 
 // ⇩⇩ XPTAH ⇩⇩
 
-{"key":"csp_xpath_huya","name":"虎牙直播","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"网上自己找XPATH"},
+{"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://github.com/YuanHsing/OneClickRun/raw/master/MeowXP/huya2.json"},
 {"key":"csp_xpath_hdmoli","name":"HD茉莉(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"网上自己找XPATH"},
 
 // ⇩⇩ XML ⇩⇩
@@ -48,7 +48,7 @@
         {
           "name": "redirect",
           "urls": [
-            "网上自己找"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1l1YW5Ic2luZy9mcmVlZC9yYXcvbWFzdGVyL3R2L2xpdmUudHh0"
           ]
         }
       ]
