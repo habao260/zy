@@ -542,7 +542,6 @@
 {"key":"速度资源","name":"速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"KK写真资源","name":"KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1}
 ],
-
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
