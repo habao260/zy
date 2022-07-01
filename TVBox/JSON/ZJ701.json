@@ -25,7 +25,7 @@
 {"key":"csp_GitCafe","name":"🦊小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_AliPanSou","name":"🐱喵狸盘搜(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"push_agent","name":"推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"开麦K歌搜人","name":"开麦K歌搜人","type":1,"api":"http://jb001.eu5.org/tmp/t/u/kmkg.php","searchable":1,"quickSearch":1,"filterable":0},
+//{"key":"开麦K歌搜人","name":"开麦K歌搜人","type":1,"api":"http://jb001.eu5.org/tmp/t/u/kmkg.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_biubiu_555电影","name":"🥒555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/habao260/zy/main/TVBox/MaooXB/555电影.json"},
 {"key":"csp_biubiu_LIBVIO","name":"🥒LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/habao260/zy/main/TVBox/MaooXB/LIBVIO.json"},
 {"key":"csp_biubiu_大米星球","name":"🥒大米星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/habao260/zy/main/TVBox/MaooXB/大米星球.json"},
