@@ -1,5 +1,5 @@
 {
-"spider": "https://ghproxy.com/https://raw.githubusercontent.com/habao260/zy/main/TVBox/JAR/QJ0706r.jar",
+"spider": "https://ghproxy.com/https://raw.githubusercontent.com/habao260/zy/main/TVBox/JAR/QJ0706.jar",
    
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9nY29yZS5qc2RlbGl2ci5uZXQvZ2gvdHZidy9teXR2QG1haW4vdHY4OA=="]}]}],
 "sites":[
