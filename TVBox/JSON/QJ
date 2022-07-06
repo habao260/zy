@@ -1,5 +1,5 @@
 {
-"spider": "https://ghproxy.com/https://raw.githubusercontent.com/habao260/zy/main/TVBox/JAR/QJ.jar",
+"spider": "https://ghproxy.com/https://raw.githubusercontent.com/habao260/zy/main/TVBox/JAR/custom_spider.jar",
    
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9nY29yZS5qc2RlbGl2ci5uZXQvZ2gvdHZidy9teXR2QG1haW4vdHY4OA=="]}]}],
 "sites":[
@@ -8,6 +8,7 @@
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"🎬低端影视(SP)","api":"csp_DiDuan","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
+{"key":"csp_Kmys","name":"🐱酷猫(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"mjxq_spider","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_BBB","name":"🅱️哔哩套餐","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
@@ -78,7 +79,7 @@
 //{"key":"csp_Juzi","name":"🐼橘子(SP)","type":3,"api":"csp_Juzi","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Qicui","name":"🐼奇粹(SP)","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Juhuang","name":"🐼剧荒TV(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_Kmys","name":"🐱酷猫(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
+
 //{"key":"csp_appysv2_9e国语","name":"9E国语(ysv2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.9e03.com/lvdou_api.php/v1.vod"},
 
 ## M浏览器中APP影视规则支持(AppYsV2)
