@@ -6,7 +6,7 @@
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 // 直播
 "lives":
-[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9rdXVrZXkvYS8tL3Jhdy9tYXN0ZXIvdHZsaXZlLnR4dA=="]}]}],
+[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL1lvdXJzbWlsZTcvVFZCb3gvcmF3L2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ="]}]}],
 // 站源
 "sites":
 [{"key":"Lezhu_spider","name":"🐷乐猪影视〔SP〕","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
