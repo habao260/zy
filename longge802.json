@@ -50,7 +50,6 @@
 {"key": "push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://od.lk/s/MThfMzc0NDgxMjFf/token.txt"},
  
  //XYQ
-{"key":"csp_XYQBiu_在线之家","name":"🐞在线之家〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/zxzj.json","jar":"https://raw.fastgit.org/shadowchiu369/TVBox/main/jar/XYQ.jar;md5;70e01ec62901bca8e33f3c7c7cb4c851"},
 {"key":"csp_XYQBiu_555","name":"5️⃣555影视〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/555.json","jar":"https://raw.fastgit.org/shadowchiu369/TVBox/main/jar/XYQ.jar;md5;70e01ec62901bca8e33f3c7c7cb4c851"},
 {"key":"csp_XYQBiu_ifimv","name":"🔔艾菲影视〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/艾菲影视.json","jar":"https://raw.fastgit.org/shadowchiu369/TVBox/main/jar/XYQ.jar;md5;70e01ec62901bca8e33f3c7c7cb4c851"},
 {"key":"csp_XYQBiu_jmzy","name":"😽橘猫资源〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/橘猫资源.json","jar":"https://raw.fastgit.org/shadowchiu369/TVBox/main/jar/XYQ.jar;md5;70e01ec62901bca8e33f3c7c7cb4c851"},
@@ -85,7 +84,8 @@
 {"key":"csp_xp_vip1280","name":"👑Vip电影〔XP〕","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/MaooXP/vip1280.json"},
 {"key":"csp_xp_jLgyy","name":"☄️蓝光影院〔XPF〕","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/MaooXP/lgyy.json"},
 {"key":"csp_xp_nmys","name":"👨🌾农民影视〔XPF〕","type": 3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/MaooXP/nmys.json"},
-{"key":"csp_xpath_zxzj2","name":"🏡在线之家〔XPF〕","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/zxzj.json"},
+{"key":"csp_biubiu_在线之家","name":"🏡在线之家","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/q284855646/TVBox/-/raw/main/json/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"},
+//{"key":"csp_xpath_zxzj2","name":"🏡在线之家〔XPF〕","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/MaooXP/zxzj2.json"},
 {"key":"csp_555dy","name":"5️⃣555影视〔XPF〕","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/MaooXP/555dy.json"},
 {"key":"csp_xpath_jbb","name":"⛄剧白白〔XPMF〕","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/MaooXP/jubaibai.json"},
 {"key":"csp_xp_gongreng","name":"👷工人影视〔XPMF〕","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/MaooXP/gongren.json"},
