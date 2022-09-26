@@ -50,7 +50,7 @@
 {"key": "push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://od.lk/s/MThfMzc0NDgxMjFf/token.txt"},
  
  //XYQ
-{"key":"csp_XYQBiu_在线之家","name":"在线之家〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/zxzj.json","jar":"https://raw.fastgit.org/shadowchiu369/TVBox/main/jar/XYQ.jar;md5;70e01ec62901bca8e33f3c7c7cb4c851"},
+{"key":"csp_XYQBiu_在线之家","name":"🐞在线之家〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/zxzj.json","jar":"https://raw.fastgit.org/shadowchiu369/TVBox/main/jar/XYQ.jar;md5;70e01ec62901bca8e33f3c7c7cb4c851"},
 {"key":"csp_XYQBiu_555","name":"5️⃣555影视〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/555.json","jar":"https://raw.fastgit.org/shadowchiu369/TVBox/main/jar/XYQ.jar;md5;70e01ec62901bca8e33f3c7c7cb4c851"},
 {"key":"csp_XYQBiu_ifimv","name":"🔔艾菲影视〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/艾菲影视.json","jar":"https://raw.fastgit.org/shadowchiu369/TVBox/main/jar/XYQ.jar;md5;70e01ec62901bca8e33f3c7c7cb4c851"},
 {"key":"csp_XYQBiu_jmzy","name":"😽橘猫资源〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/橘猫资源.json","jar":"https://raw.fastgit.org/shadowchiu369/TVBox/main/jar/XYQ.jar;md5;70e01ec62901bca8e33f3c7c7cb4c851"},
