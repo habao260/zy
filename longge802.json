@@ -40,7 +40,14 @@
 {"key":"csp_Bd","name":"Bidi(SP)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_appysv2_萌蛋蛋〔APP〕","name":"萌蛋蛋〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1," quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
 {"key":"youku","name":"🐿优酷〔SP〕","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片"]},
-
+{"key":"csp_Alist","name":"🧾Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com"},
+{"key":"t4public","name":"💥T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://od.lk/s/MThfMzc0NDgxMjFf/token.txt"},
+{"key": "Gitcafe","name": "📜小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://od.lk/s/MThfMzc0NDgxMjFf/token.txt"},
+{"key":"FindZY","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://od.lk/s/MThfMzc0NDgxMjFf/token.txt"},
+{"key":"csp_Yiso","name":"🆎易搜","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://od.lk/s/MThfMzc0NDgxMjFf/token.txt"},
+{"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://od.lk/s/MThfMzc0NDgxMjFf/token.txt"},
+{"key": "push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://od.lk/s/MThfMzc0NDgxMjFf/token.txt"},
  
  //XYQ
 {"key":"csp_XYQBiu_555","name":"5️⃣555影视〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/555.json","jar":"https://raw.fastgit.org/shadowchiu369/TVBox/main/jar/XYQ.jar;md5;70e01ec62901bca8e33f3c7c7cb4c851"},
@@ -89,14 +96,7 @@
 {"key":"csp_biubiu_VIP1280","name":"👑Vip电影〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/MaooXB2/VIP1280.json"},
 {"key":"csp_biubiu_31看影视","name":"3️⃣31看影视〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/MaooXB2/31看影视.json"},
 {"key":"csp_biubiu_手机看剧","name":"📱手机看剧〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/MaooXB2/手机看剧.json"},
-{"key":"csp_Alist","name":"🧾Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com"},
-{"key":"t4public","name":"💥T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://od.lk/s/MThfMzc0NDgxMjFf/token.txt"},
-{"key": "Gitcafe","name": "📜小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://od.lk/s/MThfMzc0NDgxMjFf/token.txt"},
-{"key":"FindZY","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://od.lk/s/MThfMzc0NDgxMjFf/token.txt"},
-{"key":"csp_Yiso","name":"🆎易搜","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://od.lk/s/MThfMzc0NDgxMjFf/token.txt"},
-{"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://od.lk/s/MThfMzc0NDgxMjFf/token.txt"},
-{"key": "push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://od.lk/s/MThfMzc0NDgxMjFf/token.txt"},
+
 
 // 解析
 "parses":
