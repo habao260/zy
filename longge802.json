@@ -21,7 +21,7 @@
 {"key":"快看","name":"🔭快看〔SP〕","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"⛈️酷云七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP361","name":"3️⃣360影视〔SP〕","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Smdyy_spider","name":"🦄神马影院(SP)","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+//{"key":"Smdyy_spider","name":"🦄神马影院(SP)","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_LibVio","name":"🌊LibVio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch": 1,"filterable":1},
 {"key":"3EDY","name":"3️⃣3E电影(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_小苹果","name": "🍎小苹果(SP)","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
