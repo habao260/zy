@@ -67,7 +67,6 @@
 {"key":"csp_XYQBiu_影视工厂","name":"🌌影视工厂(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/影视工厂.json"},
 {"key":"csp_XYQBiu_fositv","name":"🐝fositv〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/fositv.json"},
 {"key":"csp_XYQBiu_kmy","name":"💢酷蚂蚁〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/酷蚂蚁.json"},
-{"key":"csp_XYQBiu_dmxq","name":"️💫大米星球〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/大米星球.json"},
 {"key":"csp_XYQBiu_wnys","name":"🧞♂️万能影视〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/万能影视.json"},
 {"key":"csp_XYQBiu_lyys","name":"🌀凌云影视〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/凌云影视.json"},
 {"key":"csp_XYQBiu_e9","name":"🎗E9视频〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/e9视频.json"},
@@ -78,6 +77,7 @@
 {"key":"csp_xBPQ_蓝光影视","name":"💿蓝光影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/蓝光影院.json"},
 {"key":"csp_xBPQ_子子影视","name":"👶子子影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/子子影视.json"},
 {"key":"csp_xBPQ_极品影视","name":"🌈极品影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/极品影视.json"},
+{"key":"csp_xBPQ_大米星球","name":"💫大米星球(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/大米星球.json"},
 {"key":"csp_xBPQ_voflix","name":"🌊Voflix(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/voflix.json"},
 {"key":"csp_xBPQ_libvio","name":"🎨libvio(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/libvio.json"},
 {"key":"csp_xBPQ_诺讯影视","name":"📽诺讯影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/诺讯影视.json"},
@@ -89,7 +89,10 @@
 {"key":"csp_XBPQ_花猫TV","name":"🐱花猫TV〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/花猫TV.json"},
 {"key":"csp_xBPQ_在线之家","name":"🏡在线之家(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/在线之家.json"},
 {"key":"csp_xBPQ_饭团影视","name":"🍚饭团影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/饭团影视.json"},
-
+{"key":"csp_xBPQ_爱看影视","name":"❣爱看影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/爱看影视.json"},
+{"key":"csp_xBPQ_爱酷影视","name":"♍爱酷影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/爱酷影视.json"}, 
+ 
+ 
 {"key":"csp_XBPQ黑洞影视","name":"🌎黑洞影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/黑洞影视.json"},	  
 {"key":"csp_XBPQ皮皮泡影视","name":"🎈皮皮泡影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/皮皮泡影视.json"}, 
 {"key":"csp_xBPQ_番茄影视","name":"🍅番茄影视 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/%E7%95%AA%E8%8C%84%E5%BD%B1%E8%A7%86.json"},
@@ -105,7 +108,7 @@
 {"key":"csp_xBPQ_酷客影视","name":"🕸酷客影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/XBPQ/kkys.json","jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/XBPQ.jar"}, 
 {"key":"csp_xBPQ_鸭奈飞","name":"🦆鸭奈飞 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"show-desc&&</p>\",\"分类\":\"数字||$124\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list-content&&</div>\",\"分类url\":\"https://yanetflix.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"},
 {"key":"csp_xf_cs","name":"️👌FREEOK(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$2#剧集$1#综艺$3#动漫$4#学习$27\",\"分类url\":\"https://www.86516.tk/vodshow/{cateId}--------{catePg}---/\"}","jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/XBPQ.jar"},
-//{"key":"csp_xBPQ_在线","name":"️🏡在线之家(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/breadmyth1/tv/-/raw/main/MeowxBPQ/在线之家(xBPQ).json","jar":"https://gitcode.net/breadmyth1/tv/-/raw/main/jar/XBPQ.jar"},
+
 
 {"key":"csp_xpath_bttwoo","name":"💞两个BT〔XP〕","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/MaooXP/bttwoo.json"},
 {"key":"csp_xp_vip1280","name":"👑Vip电影〔XP〕","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/MaooXP/vip1280.json"},
