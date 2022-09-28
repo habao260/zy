@@ -26,6 +26,7 @@
 {"key":"3EDY","name":"3️⃣3E电影(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_小苹果","name": "🍎小苹果(SP)","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"追剧喵","name":"🐯追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Nianying","name":"🍲Nianying(SP)","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_剧荒","name": "🎉剧荒（SP）","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Cokemv"  ,"name":"💎Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Yj1211","name": "📽️在线直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -102,6 +103,7 @@
 
 {"key":"csp_xBPQ","name":"️🐽真不卡(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/XBPQ/zbkk.json","jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/XBPQ.jar"},
 {"key":"csp_xBPQ_酷客影视","name":"🕸酷客影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/XBPQ/kkys.json","jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/XBPQ.jar"}, 
+{"key":"csp_xBPQ_鸭奈飞","name":"🦆鸭奈飞 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"show-desc&&</p>\",\"分类\":\"数字||$124\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list-content&&</div>\",\"分类url\":\"https://yanetflix.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"},
 {"key":"csp_xf_cs","name":"️👌FREEOK(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$2#剧集$1#综艺$3#动漫$4#学习$27\",\"分类url\":\"https://www.86516.tk/vodshow/{cateId}--------{catePg}---/\"}","jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/XBPQ.jar"},
 {"key":"csp_xBPQ_在线","name":"️🏡在线之家(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/breadmyth1/tv/-/raw/main/MeowxBPQ/在线之家(xBPQ).json","jar":"https://gitcode.net/breadmyth1/tv/-/raw/main/jar/XBPQ.jar"},
 
