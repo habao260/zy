@@ -12,7 +12,8 @@
 
   "sites":[
     {"key": "T4a","name": " 🎑T4聚合","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key": "douban-JS","name": "豆瓣[JS]","type": 3,"api": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/douban.js"},
+    {"key": "douban-JS","name": "豆瓣[JS]","type": 3,"api": "https://github.com/pluto-player/updates/raw/main/android/plugins/js/douban.js"},
+    {"key": "drpy_JS","name": "drpy[JS]","type": 3,"api": "https://github.com/pluto-player/updates/raw/main/android/plugins/js/drpy.min.js"},
     {"key":"Alist_js","name":"Alist(JS)","type":3,"api":"https://raw.fastgit.org/heroaku/TVboxo/main/Js/alist.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/Js/alist_js.json"},
     {"key":"csp_Alist2","name":"🅿️Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/Bili/Alist.json"},
     {"key":"csp_QXBiubiu_555电影","name":" 🌻555电影(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/QXBiu/555电影.json"},
@@ -24,6 +25,7 @@
 	  
 	  //PY爬蟲
     {"key": " py_bilibili","name": " 🦂哔哩","type": 3,"api": "py_bilibili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Py/py_bilibili.py"},
+    {"key": "py_douban","name": "🦂豆瓣影视","type": 3,"api": "py_douban","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Py/py_douban.py"},
     {"key": "py_cctv","name": "🦂央视自选","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Py/py_cctv.py"},
     {"key": "py_cctv_full","name": "🦂央视大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Py/py_cctv_full.py"},
     {"key": " py_bilimd","name": " 🦂哔哩影视","type": 3,"api": "py_bilimd","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Py/py_bilimd.py"},
@@ -31,6 +33,9 @@
     {"key": " py_中国文化","name": " 🦂中国文化","type": 3,"api": "py_中国文化","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Py/py_中国文化.py"},
     {"key": " py_3qu","name": " 🦂快播影视","type": 3,"api": "py_3qu","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Py/py_3qu.py"},
     {"key": "py_zxzj","name": " 🦂在线之家","type": 3,"api": "py_zxzj","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Py/py_zxzj.py"},
+    {"key":"py_lezhu","name":"🐷乐猪影视 py","type":3,"api":"py_lezhu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/Py/py_lezhu.py"},
+    {"key":"py_star","name":"✨星光影视 py","type":3,"api":"py_star","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/Py/py_star.py"},
+    {"key":"py_cup","name":"🦊茶杯狐 py","type":3,"api":"py_cup","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/Py/py_cup.py"},
     {"key": "py_voflix","name": " 🦂Voflix","type": 3,"api": "py_voflix","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Py/py_voflix.py"},
     {"key": "py_gimytv","name": " 🦂剧迷","type": 3,"api": "py_gimytv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Py/py_gimytv.py"},
     {"key": "py_genmov","name": " 🦂跟剧","type": 3,"api": "py_genmov","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Py/py_genmov.py"},
@@ -43,7 +48,11 @@
     {"key": "py_gitcafe","name": " 🦂小纸条","type": 3,"api": "py_gitcafe","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Py/py_gitcafe.py"},
     {"key": "py_cyys","name": " 🦂创意影视","type": 3,"api": "py_cyys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Py/py_cyys.py"},
     {"key": "py_alist","name": " 🦂Alist","type": 3,"api": "py_alist","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Py/py_alist.py"},
-    {"key": "py_push_agent","name": " 🦂阿里","type": 3,"api": "py_ali","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://github.com/heroaku/PyramidStore/raw/main/plugin/py_ali.py"},
+    {"key": "py_push_agent","name": " 🦂阿里","type": 3,"api": "py_ali","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Py/py_ali.py"},
+    {"key": "py_libvio","name": " 🐦Libvio","type": 3,"api": "py_libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Py/py_libvio.py"},
+    {"key": "py_qie","name": " 🐦QE体育","type": 3,"api": "py_qie","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Py/py_qie.py"},
+    {"key": "py_jrskbs","name": " 🐦JRS直播","type": 3,"api": "py_jrskbs","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Py/py_jrskbs.py"},
+
     //{"key": "py_jubaibai","name": " 🦂剧白白","type": 3,"api": "py_jubaibai","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Py/py_jubaibai.py"}, 
     //{"key": "py_555dy","name": " 🦂555影视","type": 3,"api": "py_555dy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Py/py_555dy.py"}, 
     //{"key": "py_555dy2","name": " 🦂555影视(test)","type": 3,"api": "py_555dy2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Py/py_555dy2.py"}, 
@@ -76,7 +85,25 @@
    {"key":"csp_xBPQ_瓜皮TV","name":"🍉瓜皮TV xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/%E7%93%9C%E7%9A%AETV.json"},
    {"key":"csp_xBPQ_热播酷","name":"💽热播酷 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/%E7%83%AD%E6%92%AD%E9%85%B7.json"},
    {"key":"csp_xBPQ_1080在线","name":" 🍂1080在线 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/1080%E5%9C%A8%E7%BA%BF.json"},	  
-
+   {"key":"csp_XBPQLIBVIO","name":" 🍂LIBVIO〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/LIBVIO.json"},	  
+   {"key":"csp_XBPQ好看影视","name":" 🍂好看影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/好看影视.json"},
+   {"key":"csp_xBPQ_蓝光影院","name":" 🍂蓝光影院 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/蓝光影院.json"},
+   {"key":"csp_xBPQ_RENPE","name":" 🍂RENPE xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/RENPE.json"},
+   {"key":"csp_xBPQ_双十电影","name":" 🍂双十电影 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/双十电影.json"},
+   {"key":"csp_xBPQ_神马影院","name":" 🍂神马影院 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/神马影院.json"},
+   {"key":"csp_xBPQ_hoho","name":" 🍂HoHo影视 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/hoho.json"},
+   {"key":"csp_xBPQ_追剧猫","name":" 🍂追剧猫 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/zjmiao.json"},
+   {"key":"csp_xBPQ_剧迷","name":" 🍂剧迷 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/gimy.json"},	  	  
+   {"key":"csp_xBPQ_唐人街","name":" 🍂唐人街 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/唐人街.json"},	  	
+   {"key":"csp_xBPQ_F7好看剧","name":" 🍂F7好看剧 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/F7好看剧.json"},	  
+   {"key":"csp_xBPQ_达达龟","name":" 🍂达达龟 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/ddgui.json"},	  	  
+   {"key":"csp_xBPQ_饭团2","name":" 🍂饭团 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/fantuanTV.json"},	  	
+   {"key":"csp_xBPQ_厂长资源","name":" 🍂厂长资源 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/厂长资源.json"},
+   {"key":"csp_xBPQ_小小影视","name":" 🍂小小影视 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/xfeiji.json"},
+   {"key":"csp_xBPQ_天天影视","name":" 🍂天天影视 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/ttsp.json"},
+	  
+   {"key":"csp_xBPQ_test测试","name":" 🍂测试 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/test.json"},
+	  
 	  
 	  //xbiu
 	  
@@ -663,6 +690,12 @@
     {"name":"OJBK","type":0,"url":"https://jmwl.qd234.cn/v/?v=","ext":{"flag":["ltnb","renrenmi","rx","xfyun","muxm3u8","xigua","xueren","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩","pptv","PPTV","sohu","letv"]}},
     {"name": "未知","type": 1,"url": "http://106.52.218.221:88/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]}} 
   ],
+
+"rules": [
+{"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
+{"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
+{"host":"zjmiao.com", "rule":["play.videomiao.vip/API.php", "time=", "key=", "path="]}
+],
   "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
   "ijk":[
     {"group":"软解码","options":[
