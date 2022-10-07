@@ -70,8 +70,8 @@
 {"key":"csp_XYQBiu_wnys","name":"🧞♂️万能影视〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/万能影视.json"},
 {"key":"csp_XYQBiu_lyys","name":"🌀凌云影视〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/凌云影视.json"},
 {"key":"csp_XYQBiu_E9视频","name":"🎗E9视频〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/E9视频.json"},
-{"key":"csp_XYQBiu_冷曦影视","name":"🌨冷曦影视〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/冷曦影视.json"},
- 
+{"key": "csp_XYQHiker_无插件直播(XYQ)","name": " 🏀无插件直播","type": 3,"api": "csp_XYQHiker","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/无插件直播.json"},
+{"key":"csy_XYQHiker","name":"🌨冷曦影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/冷曦影视.json"},
  
 //XBPQ
 {"key":"csp_xBPQ_影视工厂","name":"🌌影视工厂(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/影视工厂.json"},
@@ -126,7 +126,8 @@
  
 {"key":"csp_xBPQ_鸭奈飞","name":"🦆鸭奈飞 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"show-desc&&</p>\",\"分类\":\"数字||$124\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list-content&&</div>\",\"分类url\":\"https://yanetflix.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"},
 {"key":"csp_xf_cs","name":"️👌FREEOK(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$2#剧集$1#综艺$3#动漫$4#学习$27\",\"分类url\":\"https://www.86516.tk/vodshow/{cateId}--------{catePg}---/\"}","jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/XBPQ.jar"},
-
+{"key":"csp_xBPQ_ 吼吼TV","name":"xBPQ |  吼吼TV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/xBPQ/吼吼TV.json"},
+ {"key":"csp_xBPQ_荐片","name":"xBPQ | 荐片","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/xBPQ/jianpian.json"},
 
 {"key":"csp_xpath_bttwoo","name":"💞两个BT〔XP〕","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/MaooXP/bttwoo.json"},
 {"key":"csp_xp_vip1280","name":"👑Vip电影〔XP〕","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/MaooXP/VIP电影.json"},
