@@ -190,6 +190,14 @@
       "searchable": 1,
       "filterable": 1
     },
+ {
+      "key": "玩偶",
+      "name": "玩偶",
+      "type": 3,
+      "api": "csp_Doll",
+      "searchable": 1,
+      "filterable": 1
+    },
     {
       "key": "朱古力",
       "name": "朱古力",
