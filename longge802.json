@@ -72,8 +72,7 @@
 {"key":"csp_XYQBiu_wnys","name":"🧞♂️万能影视〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/万能影视.json"},
 {"key":"csp_XYQBiu_lyys","name":"🌀凌云影视〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/凌云影视.json"},
 {"key":"csp_XYQBiu_E9视频","name":"🎗E9视频〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/E9视频.json"},
-{"key":"csp_XYQBiu_539影视","name":"5️⃣539影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/539影视.json"},
-{"key":"csp_XYQBiu_23影院","name":"23影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/23影院.json"},
+
  
 ##DRPY系列
 {"key": "drpy_js_360影视","name": "☀️360影视[DRPY]","type": 3,"api": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/js/lib/drpy.js","ext": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/js/jss/360影视.js"},
@@ -116,8 +115,8 @@
 //{"key": "drpy_js_凌云影视","name": "☀️凌云影视[DRPY]","type": 3,"api": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/js/lib/drpy.js","ext": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/js/jss/凌云影视.js"},
 //{"key": "drpy_js_小猫咪","name": "☀️小猫咪[DRPY]","type": 3,"api": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/js/lib/drpy.js","ext": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/js/jss/小猫咪.js"},
 //{"key": "drpy_js_夜空","name": "☀️夜空[DRPY]","type": 3,"api": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/js/lib/drpy.js","ext": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/js/jss/夜空.js"},
-{"key": "drpy_js_AGE动漫","name": "☀️AGE动漫[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/CatVodSpiderJS/main/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AGE%E5%8A%A8%E6%BC%AB.js"},
-{"key": "drpy_js_麦豆","name": "☀️麦豆[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/CatVodSpiderJS/main/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/麦豆.js"},
+{"key": "drpy_js_AGE动漫","name": "☀️AGE动漫[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/CatVodSpiderJS/main/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/blob/4e0cadfd38c5e5eff8f1499d5da84b38c713f23c/js/AGE%E5%8A%A8%E6%BC%AB.js"},
+{"key": "drpy_js_麦豆","name": "☀️麦豆[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/CatVodSpiderJS/main/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/blob/4e0cadfd38c5e5eff8f1499d5da84b38c713f23c/js/麦豆.js"},
 
 {"key": "drpy_js_秋霞","name": " 🎑秋霞影院[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/CatVodSpiderJS/main/drpy.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/秋霞.js"}, 
 	{"key": "drpy_js_MXONE","name": " 🎑MXONE喵[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/CatVodSpiderJS/main/drpy.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/MXONE喵.js"},
