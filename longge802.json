@@ -108,21 +108,50 @@
 {"key": "drpy_js_真不卡","name": "☀️真不卡[DRPY]","type": 3,"api": "https://suanjin.github.io/tv/main/js/lib/drpy.js","ext": "https://suanjin.github.io/tv/main/js/jss/真不卡.js"},
 {"key": "drpy_js_追剧喵","name": "☀️追剧喵[DRPY]","type": 3,"api": "https://suanjin.github.io/tv/main/js/lib/drpy.js","ext": "https://suanjin.github.io/tv/main/js/jss/追剧喵.js"},
 {"key": "drpy_js_猫了个咪","name": "☀️猫了个咪[DRPY]","type": 3,"api": "https://suanjin.github.io/tv/main/js/lib/drpy.js","ext": "https://suanjin.github.io/tv/main/js/jss/猫了个咪.js"},
-//{"key": "drpy_js_兔小贝","name": "☀️兔小贝[DRPY]","type": 3,"api": "https://suanjin.github.io/tv/main/js/lib/drpy.js","ext": "https://suanjin.github.io/tv/main/js/jss/兔小贝.js"},
-//{"key": "drpy_js_vip影院","name": "☀️vip影院[DRPY]","type": 3,"api": "https://suanjin.github.io/tv/main/js/lib/drpy.js","ext": "https://suanjin.github.io/tv/main/js/jss/vip影院.js"},
-//{"key": "drpy_js_蓝莓影视","name": "☀️蓝莓影视[DRPY]","type": 3,"api": "https://suanjin.github.io/tv/main/js/lib/drpy.js","ext": "https://suanjin.github.io/tv/main/js/jss/蓝莓影视.js"},
-//{"key": "drpy_js_凌云影视","name": "☀️凌云影视[DRPY]","type": 3,"api": "https://suanjin.github.io/tv/main/js/lib/drpy.js","ext": "https://suanjin.github.io/tv/main/js/jss/凌云影视.js"},
-//{"key": "drpy_js_小猫咪","name": "☀️小猫咪[DRPY]","type": 3,"api": "https://suanjin.github.io/tv/main/js/lib/drpy.js","ext": "https://suanjin.github.io/tv/main/js/jss/小猫咪.js"},
-//{"key": "drpy_js_夜空","name": "☀️夜空[DRPY]","type": 3,"api": "https://suanjin.github.io/tv/main/js/lib/drpy.js","ext": "https://suanjin.github.io/tv/main/js/jss/夜空.js"},
- 
- 
+{"key": "drpy_js_兔小贝","name": "☀️兔小贝[DRPY]","type": 3,"api": "https://suanjin.github.io/tv/main/js/lib/drpy.js","ext": "https://suanjin.github.io/tv/main/js/jss/兔小贝.js"},
+{"key": "drpy_js_vip影院","name": "☀️vip影院[DRPY]","type": 3,"api": "https://suanjin.github.io/tv/main/js/lib/drpy.js","ext": "https://suanjin.github.io/tv/main/js/jss/vip影院.js"},
+{"key": "drpy_js_蓝莓影视","name": "☀️蓝莓影视[DRPY]","type": 3,"api": "https://suanjin.github.io/tv/main/js/lib/drpy.js","ext": "https://suanjin.github.io/tv/main/js/jss/蓝莓影视.js"},
+{"key": "drpy_js_凌云影视","name": "☀️凌云影视[DRPY]","type": 3,"api": "https://suanjin.github.io/tv/main/js/lib/drpy.js","ext": "https://suanjin.github.io/tv/main/js/jss/凌云影视.js"},
+{"key": "drpy_js_小猫咪","name": "☀️小猫咪[DRPY]","type": 3,"api": "https://suanjin.github.io/tv/main/js/lib/drpy.js","ext": "https://suanjin.github.io/tv/main/js/jss/小猫咪.js"},
+{"key": "drpy_js_夜空","name": "☀️夜空[DRPY]","type": 3,"api": "https://suanjin.github.io/tv/main/js/lib/drpy.js","ext": "https://suanjin.github.io/tv/main/js/jss/夜空.js"},
+
+{"key": "drpy_js_vip影院","name": " 🎑vip影院[DRPY]","type": 3,"api": "https://github.com/heroaku/CatVodSpiderJS/raw/main/drpy.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/vip影院.js"},
+{"key": "drpy_js_优酷","name": " 🎑优酷[DRPY]","type": 3,"api": "https://github.com/heroaku/CatVodSpiderJS/raw/main/drpy.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/优酷.js"},
+{"key": "drpy_js_秋霞","name": " 🎑秋霞影院[DRPY]","type": 3,"api": "https://github.com/heroaku/CatVodSpiderJS/raw/main/drpy.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/mainJs/秋霞.js"}, 
+	{"key": "drpy_js_MXONE","name": " 🎑MXONE喵[DRPY]","type": 3,"api": "https://github.com/heroaku/CatVodSpiderJS/raw/main/drpy.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/MXONE喵.js"},
+	{"key": "drpy_js_Nike影视","name": " 🎑Nike影视[DRPY]","type": 3,"api": "https://github.com/heroaku/CatVodSpiderJS/raw/main/drpy.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/Nike影视.js"},
+	{"key": "drpy_js_TV云播","name": " 🎑TV云播[DRPY]","type": 3,"api": "https://github.com/heroaku/CatVodSpiderJS/raw/main/drpy.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/TV云播.js"},
+	{"key": "drpy_js_爱看电影","name": " 🎑爱看电影[DRPY]","type": 3,"api": "https://github.com/heroaku/CatVodSpiderJS/raw/main/drpy.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/爱看电影.js"},
+	{"key": "drpy_js_爱看影视","name": " 🎑爱看影视[DRPY]","type": 3,"api": "https://github.com/heroaku/CatVodSpiderJS/raw/main/drpy.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/爱看影视.js"},
+	{"key": "drpy_js_大师兄影视","name": " 🎑大师兄影视[DRPY]","type": 3,"api": "https://github.com/heroaku/CatVodSpiderJS/raw/main/drpy.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/大师兄影视.js"},
+	{"key": "drpy_js_豆瓣","name": " 🎑豆瓣[DRPY]","type": 3,"api": "https://github.com/heroaku/CatVodSpiderJS/raw/main/drpy.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/豆瓣.js"},
+	{"key": "drpy_js_剧荒","name": " 🎑剧荒[DRPY]","type": 3,"api": "https://github.com/heroaku/CatVodSpiderJS/raw/main/drpy.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/剧荒.js"},
+	{"key": "drpy_js_剧迷","name": " 🎑剧迷[DRPY]","type": 3,"api": "https://github.com/heroaku/CatVodSpiderJS/raw/main/drpy.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/剧迷.js"},
+	{"key": "drpy_js_看了么","name": " 🎑看了么[DRPY]","type": 3,"api": "https://github.com/heroaku/CatVodSpiderJS/raw/main/drpy.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/看了么.js"},
+	{"key": "drpy_js_乐猪TV","name": " 🎑乐猪TV[DRPY]","type": 3,"api": "https://github.com/heroaku/CatVodSpiderJS/raw/main/drpy.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/乐猪TV.js"},
+	{"key": "drpy_js_两个BT","name": " 🎑两个BT[DRPY]","type": 3,"api": "https://github.com/heroaku/CatVodSpiderJS/raw/main/drpy.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/两个BT.js"},
+	{"key": "drpy_js_胖虎影视","name": " 🎑胖虎影视[DRPY]","type": 3,"api": "https://github.com/heroaku/CatVodSpiderJS/raw/main/drpy.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/胖虎影视.js"},
+	{"key": "drpy_js_皮皮泡","name": " 🎑皮皮泡[DRPY]","type": 3,"api": "https://github.com/heroaku/CatVodSpiderJS/raw/main/drpy.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/皮皮泡.js"},
+	{"key": "drpy_js_特狗影视","name": " 🎑特狗影视[DRPY]","type": 3,"api": "https://github.com/heroaku/CatVodSpiderJS/raw/main/drpy.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/特狗影视.js"},
+	{"key": "drpy_js_天空影视","name": " 🎑天空影视[DRPY]","type": 3,"api": "https://github.com/heroaku/CatVodSpiderJS/raw/main/drpy.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/天空影视.js"},
+	{"key": "drpy_js_吸瓜","name": " 🎑吸瓜影院[DRPY]","type": 3,"api": "https://github.com/heroaku/CatVodSpiderJS/raw/main/drpy.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/吸瓜.js"}, 
+
+
+
+
+
+
+
 //XBPQ
 {"key":"csp_xBPQ_影视工厂","name":"🌌影视工厂(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/影视工厂.json"},
 {"key":"csp_xBPQ_蓝光影视","name":"💿蓝光影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/蓝光影院.json"},
 {"key":"csp_xBPQ_子子影视","name":"👶子子影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/子子影视.json"},
 {"key":"csp_xBPQ_极品影视","name":"🌈极品影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/极品影视.json"},
 {"key":"csp_xBPQ_大米星球","name":"💫大米星球(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/大米星球.json"},
+{"key":"csp_xBPQ_l0l影院","name":"🔍l0l影院(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/l0l影院.json"},
+{"key":"csp_xBPQ_TVB云播","name":" 🔗TVB云播(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/TVB云播.json"},
 {"key":"csp_xBPQ_1080在线","name":"🌞1080在线(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/1080在线.json"},
+{"key":"csp_xBPQ_23影院","name":" 🕑23影院(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/23影院.json"},
 {"key":"csp_xBPQ_Voflix","name":"🌊Voflix(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/Voflix.json"},
 {"key":"csp_xBPQ_Libvio","name":"🎨Libvio(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/Libvio.json"},
 {"key":"csp_xBPQ_Cokemv","name":"🗡Cokemv(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/Cokemv.json"},
@@ -131,6 +160,7 @@
 {"key":"csp_xBPQ_动视影视","name":"📷动视影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/动视影视.json"},
 {"key":"csp_xBPQ_UM影院","name":"🎙UM影院(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/UM影院.json"},
 {"key":"csp_xBPQ_555电影","name":"5️⃣555电影(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/555电影.json"},
+{"key":"csp_xBPQ_539影视","name":"5️⃣539影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/539影视.json"},
 {"key":"csp_xBPQ_宝仙","name":" ⚔宝仙(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/宝仙.json"},
 {"key":"csp_XBPQ_花猫TV","name":"🐱花猫TV〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/花猫TV.json"},
 {"key":"csp_xBPQ_在线之家","name":"🏡在线之家(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/在线之家.json"},
@@ -142,6 +172,7 @@
 {"key":"csp_xBPQ_酷客影视","name":"🕸酷客影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/酷客影视.json"}, 
 {"key":"csp_xBPQ_胖虎影视","name":"🐅胖虎影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/胖虎影视.json"},
 {"key":"csp_xBPQ_干饭影视","name":"🍨干饭影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/干饭影视.json"},
+{"key":"csp_xBPQ_热播库","name":" 👼热播库(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/热播库.json"},
  
 
 {"key":"csp_XBPQ黑洞影视","name":"🌎黑洞影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/黑洞影视.json"},	  
@@ -149,8 +180,7 @@
 {"key":"csp_xBPQ_番茄影视","name":"🍅番茄影视 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/%E7%95%AA%E8%8C%84%E5%BD%B1%E8%A7%86.json"},
 {"key":"csp_xBPQ_巨人影院","name":"👣巨人影院 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/%E5%B7%A8%E4%BA%BA%E5%BD%B1%E8%A7%86.json"},	  
 {"key":"csp_xBPQ_app","name":"🍬app影院 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/app%E5%BD%B1%E8%A7%86.json"},	  
-{"key":"csp_xBPQ_师兄影院","name":"🧥大师兄影院 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/%E5%A4%A7%E5%B8%88%E5%85%84%E5%BD%B1%E8%A7%86.json"},
-{"key":"csp_xBPQ_嗷呜视频","name":"🦁嗷呜视频 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/%E5%97%B7%E5%91%9C%E8%A7%86%E9%A2%91.json"},	  
+{"key":"csp_xBPQ_师兄影院","name":"🧥大师兄影院 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/%E5%A4%A7%E5%B8%88%E5%85%84%E5%BD%B1%E8%A7%86.json"},  
 {"key":"csp_xBPQ_看戏影视","name":"👘看戏影视 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/%E7%9C%8B%E6%88%8F%E5%BD%B1%E8%A7%86.json"},
 {"key":"csp_xBPQ_瓜皮TV","name":"🍉瓜皮TV xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/%E7%93%9C%E7%9A%AETV.json"},
 {"key":"csp_xBPQ_热播酷","name":"💽热播酷 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/%E7%83%AD%E6%92%AD%E9%85%B7.json"}, 
@@ -166,11 +196,12 @@
 {"key":"csp_xBPQ_厂长资源","name":" 🍂厂长资源 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/厂长资源.json"},	  
 {"key":"csp_xBPQ_小小影视","name":" 🍂小小影视 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/xfeiji.json"},   
 {"key":"csp_xBPQ_天天影视","name":" 🍂天天影视 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/ttsp.json"},
- 
-{"key":"csp_xBPQ_鸭奈飞","name":"🦆鸭奈飞 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"导演\": \"导演：&&</div\",\"主演\": \"主演：&&</div\",\"简介\": \"show-desc&&</p>\",\"分类\":\"数字||$124\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list-content&&</div>\",\"分类url\":\"https://yanetflix.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"},
-{"key":"csp_xf_cs","name":"️👌FREEOK(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$2#剧集$1#综艺$3#动漫$4#学习$27\",\"分类url\":\"https://www.86516.tk/vodshow/{cateId}--------{catePg}---/\"}","jar":"https://gitcode.net/qdpdwjx001/ziyuan/-/raw/master/XBPQ.jar"},
-{"key":"csp_xBPQ_ 吼吼TV","name":"xBPQ |  吼吼TV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/xBPQ/吼吼TV.json"},
- {"key":"csp_xBPQ_荐片","name":"xBPQ | 荐片","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/xBPQ/jianpian.json"},
+{"key":"csp_xBPQ_抓饭体育","name":" 🍂抓饭体育 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/抓饭体育.json"},
+{"key":"csp_xBPQ_万能影视","name":" 🍂万能影视 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/wanneng.json"},
+{"key":"csp_xBPQ_锐行影院","name":" 🍂锐行影院 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/ruixingjs.json"},
+{"key":"csp_xBPQ_电影先生","name":" 🍂电影先生 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/电影先生.json"},
+{"key":"csp_xBPQ_七小时影院","name":" 🍂七小时影院 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/七小时影院.json"},
+
 
 {"key":"csp_xpath_bttwoo","name":"💞两个BT〔XP〕","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/MaooXP/bttwoo.json"},
 {"key":"csp_xp_vip1280","name":"👑Vip电影〔XP〕","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/MaooXP/VIP电影.json"},
