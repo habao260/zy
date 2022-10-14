@@ -116,6 +116,22 @@
 //{"key": "drpy_js_小猫咪","name": "☀️小猫咪[DRPY]","type": 3,"api": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/js/lib/drpy.js","ext": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/js/jss/小猫咪.js"},
 //{"key": "drpy_js_夜空","name": "☀️夜空[DRPY]","type": 3,"api": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/js/lib/drpy.js","ext": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/js/jss/夜空.js"},
 
+{"key": "drpy_js_vip影院","name": " 😚vip影院[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/vip影院.js"},
+{"key": "drpy_js_优酷","name": " 😚优酷[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/优酷.js"},
+{"key": "drpy_js_麦豆","name": " 😚麦豆[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/麦豆.js"},
+{"key": "drpy_js_素白白","name": " 😚素白白[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/素白白.js"},
+{"key": "drpy_js_短视频","name": " 😚短视频[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/短视频.js"},
+{"key": "drpy_js_模板","name": " 😚模板[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/模板.js"},
+{"key": "drpy_js_百忙","name": " 😚百忙[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/百忙无果.js"},
+{"key": "drpy_js_凌云影视","name": " 😚凌云影视[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/凌云影视.js"},
+{"key": "drpy_js_低端","name": " 😚低端[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/ddys.js"},
+{"key": "drpy_js_AGE动漫","name": " 😚AGE动漫[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AGE动漫.js"},
+
+
+
+
+
+
 
 {"key": "drpy_js_秋霞","name": " 🎑秋霞影院[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/CatVodSpiderJS/main/drpy.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/秋霞.js"}, 
 	{"key": "drpy_js_MXONE","name": " 🎑MXONE喵[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/CatVodSpiderJS/main/drpy.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/MXONE喵.js"},
