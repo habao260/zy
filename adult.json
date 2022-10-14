@@ -199,18 +199,18 @@
       "filterable": 1
     },
     {
-      "key": "朱古力",
-      "name": "朱古力",
-      "type": 3,
-      "api": "csp_Pig",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "Jable",
       "name": "Jable",
       "type": 3,
       "api": "csp_Jable",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "PigAV",
+      "name": "PigAV",
+      "type": 3,
+      "api": "csp_Pig",
       "searchable": 1,
       "filterable": 1
     },
