@@ -110,7 +110,7 @@
 {"key": "drpy_js_真不卡","name": "☀️真不卡[DRPY]","type": 3,"api": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/JS/lib/drpy.ym.js","ext": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/JS/js/真不卡.js"},
 {"key": "drpy_js_追剧喵","name": "☀️追剧喵[DRPY]","type": 3,"api": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/JS/lib/drpy.ym.js","ext": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/JS/js/追剧喵.js"},
 {"key": "drpy_js_猫了个咪","name": "☀️猫了个咪[DRPY]","type": 3,"api": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/JS/lib/drpy.ym.js","ext": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/JS/js/猫了个咪.js"},
-//{"key": "drpy_js_兔小贝","name": "☀️兔小贝[DRPY]","type": 3,"api": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/JS/lib/drpy.ym.js","ext": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/JS/js/兔小贝.js"},
+{"key": "drpy_js_兔小贝","name": "☀️兔小贝[DRPY]","type": 3,"api": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/JS/lib/drpy.ym.js","ext": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/JS/js/兔小贝.js"},
 //{"key": "drpy_js_蓝莓影视","name": "☀️蓝莓影视[DRPY]","type": 3,"api": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/JS/lib/drpy.ym.js","ext": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/JS/js/蓝莓影视.js"},
 //{"key": "drpy_js_凌云影视","name": "☀️凌云影视[DRPY]","type": 3,"api": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/JS/lib/drpy.ym.js","ext": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/JS/js/凌云影视.js"},
 //{"key": "drpy_js_小猫咪","name": "☀️小猫咪[DRPY]","type": 3,"api": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/JS/lib/drpy.ym.js","ext": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/JS/js/小猫咪.js"},
@@ -118,7 +118,7 @@
 
 
 //{"key": "drpy_js_vip影院","name": " 😚vip影院[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/vip影院.js"},
-{"key": "drpy_js_兔小贝","name": "😚兔小贝[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/兔小贝.js"},
+//{"key": "drpy_js_兔小贝","name": "😚兔小贝[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/兔小贝.js"},
 {"key": "drpy_js_优酷","name": " 😚优酷[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/优酷.js"},
 {"key": "drpy_js_69美剧","name": " 😚69美剧[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/69美剧.js"},
 {"key": "drpy_js_小品网","name": " 😚小品网[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/小品网.js"},
