@@ -82,7 +82,7 @@
 {"key":"csp_XYQBiu_E9视频","name":"🎗E9视频〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/E9视频.json"},
 
  
-##DRPY系列
+##DRPY系列suanjin
 {"key": "drpy_js_360影视","name": "☀️360影视[DRPY]","type": 3,"api": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/JS/lib/drpy.ym.js","ext": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/JS/js/360影视.js"},
 {"key": "drpy_js_555影视","name": "☀️555影视[DRPY]","type": 3,"api": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/JS/lib/drpy.ym.js","ext": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/JS/js/555影视.js"},
 {"key": "drpy_js_1080P","name": "☀️1080P[DRPY]","type": 3,"api": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/JS/lib/drpy.ym.js","ext": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/JS/js/1080P.js"},
@@ -124,25 +124,36 @@
 //{"key": "drpy_js_夜空","name": "☀️夜空[DRPY]","type": 3,"api": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/JS/lib/drpy.ym.js","ext": "https://raw.fastgit.org/suanjin/suanjin.github.io/master/main/JS/js/夜空.js"},
 
 
-//{"key": "drpy_js_vip影院","name": " 😚vip影院[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/vip影院.js"},
-//{"key": "drpy_js_兔小贝","name": "😚兔小贝[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/兔小贝.js"},
-{"key": "drpy_js_优酷","name": " 😚优酷[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/优酷.js"},
-{"key": "drpy_js_69美剧","name": " 😚69美剧[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/69美剧.js"},
-{"key": "drpy_js_小品网","name": " 😚小品网[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/小品网.js"},
-{"key": "drpy_js_快看","name": " 😚快看[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/快看.js"},
-{"key": "drpy_js_麦豆","name": " 😚麦豆[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/麦豆.js"},
-{"key": "drpy_js_素白白","name": " 😚素白白[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/素白白.js"},
-{"key": "drpy_js_短视频","name": " 😚短视频[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/短视频.js"},
-{"key": "drpy_js_RP影视","name": " 😚RP影视[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/RP影视.js"},
-{"key": "drpy_js_百忙","name": " 😚百忙[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/百忙无果.js"},
-{"key": "drpy_js_凌云影视","name": " 😚凌云影视[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/凌云影视.js"},
-{"key": "drpy_js_ddys","name": " 😚低端[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/ddys.js"},
-{"key": "drpy_js_AGE动漫","name": " 😚AGE动漫[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AGE动漫.js"},
-{"key": "drpy_js_有声小说吧","name": " 😚有声小说吧[DRPY]","type": 3,"api": "https://raw.fastgit.org/habao260/zy/main/drpy/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/有声小说吧.js"},
+
+//https://gitcode.net/qq_32394351/dr_py
+
+//{"key": "drpy_js_vip影院","name": " 😚vip影院[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/vip影院.js"},
+//{"key": "drpy_js_兔小贝","name": "😚兔小贝[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/兔小贝.js"},
+{"key": "drpy_js_优酷","name": " 😚优酷[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/优酷.js"},
+{"key": "drpy_js_69美剧","name": " 😚69美剧[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/69美剧.js"},
+{"key": "drpy_js_小品网","name": " 😚小品网[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/小品网.js"},
+{"key": "drpy_js_快看","name": " 😚快看[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/快看.js"},
+{"key": "drpy_js_麦豆","name": " 😚麦豆[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/麦豆.js"},
+{"key": "drpy_js_素白白","name": " 😚素白白[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/素白白.js"},
+{"key": "drpy_js_短视频","name": " 😚短视频[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/短视频.js"},
+{"key": "drpy_js_RP影视","name": " 😚RP影视[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/RP影视.js"},
+{"key": "drpy_js_百忙","name": " 😚百忙[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/百忙无果.js"},
+{"key": "drpy_js_凌云影视","name": " 😚凌云影视[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/凌云影视.js"},
+{"key": "drpy_js_ddys","name": " 😚低端[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/ddys.js"},
+{"key": "drpy_js_AGE动漫","name": " 😚AGE动漫[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AGE动漫.js"},
+{"key": "drpy_js_有声小说吧","name": " 😚有声小说吧[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/有声小说吧.js"},
+{"key": "drpy_js_8号影院","name": " 😚8号影院[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/8号影院.js"},
+{"key": "drpy_js_双十电影","name": " 😚双十电影[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/双十电影.js"},
+{"key": "drpy_js_完美看看","name": " 😚完美看看[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/完美看看.js"},
+{"key": "drpy_js_尘落影视","name": " 😚尘落影视[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/尘落影视.js"},
+{"key": "drpy_js_抓饭体育","name": " 😚抓饭体育[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/抓饭体育.js"},
+{"key": "drpy_js_斗鱼直播","name": " 😚斗鱼直播[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/斗鱼直播.js"},
+{"key": "drpy_js_爱迪影视","name": " 😚爱迪影视[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/爱迪影视.js"},
+{"key": "drpy_js_蛋蛋赞","name": " 😚蛋蛋赞[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/蛋蛋赞.js"},
 
 
 
-
+//heroaku
 
 
 {"key": "drpy_js_秋霞","name": " 🎑秋霞影院[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/秋霞.js"}, 
