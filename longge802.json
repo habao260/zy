@@ -80,8 +80,8 @@
 {"key":"csp_XYQBiu_wnys","name":"🧞♂️万能影视〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/万能影视.json"},
 {"key":"csp_XYQBiu_lyys","name":"🌀凌云影视〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/凌云影视.json"},
 {"key":"csp_XYQBiu_E9视频","name":"🎗E9视频〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/E9视频.json"},
-{"key":"csp_XYQBiu_23影视","name":"🌀23影视〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/23影视.json"},
-{"key":"csp_XYQBiu_23影院","name":"🌀23影院〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/23影院.json"},
+{"key":"csp_xb_23影视","name":"🌀23影视〔Xb〕","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/23影视.json"},
+{"key":"csp_xb_23影院","name":"🌀23影院〔Xb〕","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/23影院.json"},
 
  
  ##DRPY系列suanjin
