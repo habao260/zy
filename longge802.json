@@ -161,6 +161,17 @@
 {"key": "drpy_js_朱古力","name": " 😚朱古力 [DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/18/朱古力.js "},
 {"key": "drpy_js_玩偶姐姐","name": " 😚玩偶姐姐 [DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/18/玩偶姐姐.js "},
 
+##others
+{"key": "drpy_js_起飞影院","name": " 🎑起飞影院[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/起飞影院.js"},    
+{"key": "drpy_js_海兔影院","name": " 🎑海兔影院[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/海兔影院.js"},   
+{"key": "drpy_js_HoHo影视","name": " 🎑HoHo影视[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/HoHo影视.js"},  
+{"key": "drpy_js_多瑙影视","name": " 🎑多瑙影视[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/多瑙影视.js"},
+{"key": "drpy_js_小宝影视","name": " 🎑小宝影视[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/小宝影视.js"},
+{"key": "drpy_js_小宝影院","name": " 🎑小宝影院 🚪[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/小宝影院.js"},	  
+{"key": "drpy_js_独播库","name": " 🎑独播库[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/独播库.js"},	  
+{"key": "drpy_js_追剧喵","name": " 🎑追剧喵[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/追剧喵.js"},
+{"key": "drpy_js_秋霞","name": " 🎑秋霞影院[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/秋霞.js"},
+
 
 
  //netlive
