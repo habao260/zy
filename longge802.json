@@ -8,10 +8,12 @@
 
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-// 直播
+
+ // 直播
 "lives":
 [{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvc3Vhbmppbi9zdWFuamluLmdpdGh1Yi5pby9tYXN0ZXIvbWFpbi90di9jYi50eHQ="]}]}],
-// 站源
+
+ // 站源
 "sites":
 [{"key":"Lezhu_spider","name":"🐷乐猪影视〔SP〕","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"APPTT","name":"🎨图图〔SP〕","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
@@ -76,7 +78,7 @@
 {"key": "drpy_js_ddys","name": " 😚低端影视[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/ddys.js"},
 {"key": "drpy_js_drpy","name": " 😚drpy [DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"},
 {"key": "drpy_js_ if101[飞]","name": " 😚 if101[飞] [DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/if101[飞].js"},
-{"key": "drpy_js_ l0l","name": " 😚 l0l [DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/ l0l.js"},
+{"key": "drpy_js_ l0l","name": " 😚 l0l [DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/l0l.js"},
 {"key": "drpy_js_ tva云播","name": " 😚 tva云播[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/tva云播.js"},
 {"key": "drpy_js_Vid影视","name": " 😚Vid影视[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/vidhub.js"},
 {"key": "drpy_js_VIP影院","name": " 😚VIP影院[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/VIP影院.js"},
