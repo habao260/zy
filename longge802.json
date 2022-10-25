@@ -350,7 +350,7 @@
   {"host":"*", "rule":["/API.php?time=", "key=", "path=", ".m3u8"]},
   {"host":"*", "rule":["oss-cn-m3u8", "myqcloud.com.zh188.net", "?url=", ".m3u8"]},
   {"host":"www.007ts.me", "rule":["hls.pchj.net", ".m3u8"]}
-]
+],
 
 // 域名
 "flags":["youku","qq","iqiyi","qiyi","letv", "sohu","letv","tudou","pptv","mgtv","wasu","bilibili","leduo","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺"],
