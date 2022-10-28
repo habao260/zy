@@ -50,7 +50,6 @@
 {"key": "push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt"},
 {"key": "Yanet","name": "鸭奶飞","type": 3,"api": "csp_Yanet","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/Pandora2277/NoWar/raw/branch/main/cs.txt"},
 {"key": "Zjdr","name": "追剧达人","type":3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/Pandora2277/NoWar/raw/branch/main/cs.txt"},
-{"key": "Auete","name": "Auete","type":3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/Pandora2277/NoWar/raw/branch/main/cs.txt"},
 {"key": "IKan","name": "爱看","type":3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitea.com/Pandora2277/NoWar/raw/branch/main/cs.txt"},
 {"key":"Smdyy_spider","name":"🦄神马影院(SP)","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar": "https://gitea.com/Pandora2277/NoWar/raw/branch/main/cs.txt"},
 {"key":"csp_Cokemv"  ,"name":"💎Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitea.com/Pandora2277/NoWar/raw/branch/main/cs.txt"},
