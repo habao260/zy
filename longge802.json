@@ -350,10 +350,7 @@
 {"name":"☑虾米","type":0,"url":"https://dm.xmflv.com:4433/?url="},
 {"name":"☑铭人","type":0,"url":"https://parse.123mingren.com/?url="},
 {"name":"☑BL","type":0,"url":"https://svip.bljiex.cc/?v="},
-{"name": "懒人","type": 1,"url": "http://120.53.102.254/jx1/jx75.php?url="},
-{"name":"手动解析1","type":0,"url":"https://play.fositv.com/?url="},
-{"name":"手动解析2","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="},
-{"name":"手动解析3","type":0,"url":"https://jiexi.555jiexi.net:555/player/?url="}
+{"name": "懒人","type": 1,"url": "http://120.53.102.254/jx1/jx75.php?url="}
 ],
 
 "rules" : [
