@@ -2,8 +2,8 @@
 // jar
 //"spider":"https://raw.iqiq.io/shadowchiu369/TVBox/main/jar/sc.jar;md5;9cb78672b4f71e1d156a9d7a6e657044",
 //"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;85D2B2400B8C5BF6CB454911345CDE2F",
-//"spider":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/vob.jar;md5;140cbc3ff99fc15e789d8497fc2c9cb5", 
-"spider":"http://58zy.tk:53503/api/v3/file/get/280/shenqi.jar?sign=uzDli0JERtwS5LWK--FU8hTObIWZiI2IwodifjFS_wQ%3D%3A0;md5;5f8fc214f8bda7598a1c4387f7062f2e",
+//"spider":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/xo1102.jar;md5;562d5fd47ea5181aaec9f08e21ea5c98", 
+"spider":"http://58zy.tk:53503/api/v3/file/get/281/shenqi.jar?sign=Xb1LDW5YLkwTFyttjfzTO_DqiAH5uJ21yEwja4D1JJQ%3D%3A0;md5;c4ba98711fac35daff17780d0817f5dc",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
@@ -59,12 +59,12 @@
 {"key":"csp_Alist","name":"🅰Alist网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"米奇妙妙屋$https://anime.mqmmw.ga#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园$https://alist.52qy.repl.co#菊花盘$https://pan.142856.xyz#小江$https://dyj.me#触光$https://pan.ichuguang.com#好汉吧$https://8023.haohanba.cn#轻弹浅唱$https://g.xiang.lol#神器云$https://quanzi.laoxianghuijia.cn"},
 {"key":"douban","name":"🔍豆瓣荐片(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=7","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4_douban","name":"🔍影视推荐(T4)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt"},
+{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "http://ali.饭太硬.ml/tok"},
 {"key":"Gitcafe","name":"📜小纸条","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt"},
-{"key":"FindZY","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt"},
-{"key":"csp_Yiso","name":"🆎易搜","type":3,"api":"csp_Yiso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt"},
-{"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt"},
-{"key": "push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/token.txt"},
+{"key":"FindZY","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "http://ali.饭太硬.ml/tok"},
+{"key":"csp_Yiso","name":"🆎易搜","type":3,"api":"csp_Yiso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "http://ali.饭太硬.ml/tok"},
+{"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "http://ali.饭太硬.ml/tok"},
+{"key": "push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "http://ali.饭太硬.ml/tok"},
 
 //{"key":"Nianying","name":"🍲Nianying(SP)","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Jianying","name":"✨简影","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMzgxOSwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xM1QxNjowMjo1NC4yOTMrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTEzVDE2OjAyOjU0LjI5MyswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjM1MTY3NzM4MThAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiOTBkNGZkZTgtM2U0NC00MDExLTlhZjItZDNhMGEwYTM1ZTc4IiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjM2NjExMTgsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.7Rli6KT1wklDdLzKXtOlIjgeJouFdYswGc30t_iXoEw"}, 
@@ -352,19 +352,21 @@
 ],
 
 "rules" : [
-{"host" : "www.djuu.com","rule" : ["mp4.djuu.com","m4a"]},
-{"host" : "www.sharenice.net","rule" : ["douyin.com","/play/"]},
-{"host" : "m.ysxs8.vip","rule" : ["ysting.ysxs8.vip:81","xmcdn.com"],"filter" : []},
-{"host" : "hdmoli.com","rule" : [".m3u8"]},
-{"host" : "live.bilibili.com","rule" : ["bilivideo.com","index.m3u8"]},
-{"host" : "www.agemys.cc","rule" : ["cdn-tos","obj/tos-cn"]},
-{"host" : "www.fun4k.com","rule" : ["https://hd.ijycnd.com/play","index.m3u8"]},
-{"host" : "zjmiao.com","rule" : ["play.videomiao.vip/API.php","time=","key=","path="]},
+{ "host" : "www.djuu.com", "rule" : [ "mp4.djuu.com", "m4a"] },
+{ "host" : "www.sharenice.net", "rule" : [ "douyin.com", "/play/"] },
+{ "host" : "m.ysxs8.vip", "rule" : [ "ysting.ysxs8.vip:81", "xmcdn.com"], "filter" : [ ] },
+{ "host" : "hdmoli.com", "rule" : [ ".m3u8"] },
+{ "host" : "https://api.live.bilibili.com", "rule" : [ "bilivideo.com", "/index.m3u8"], "filter" : [ "data.bilibili.com/log/web", "i0.hdslb.com/bfs/live/"] },
+{ "host" : "www.agemys.cc", "rule" : [ "cdn-tos", "obj/tos-cn"] },
+{ "host" : "www.fun4k.com", "rule" : [ "https://hd.ijycnd.com/play", "index.m3u8"] },
+{ "host" : "zjmiao.com", "rule" : [ "play.videomiao.vip/API.php", "time=", "key=", "path="] },
 {"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
 {"host":"*","rule":["huoshan.com","/item/video/"]},
+{"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
+{"host":"*","rule":["douyin.com/aweme","video_id="]},
+{"host":"*","rule":["douyinvod.com","/video/tos/cn/"]},
 {"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
-{"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}
-],
+{"host":"*","rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
          
 // 域名
 "flags":["youku","qq","iqiyi","qiyi","letv", "sohu","letv","tudou","pptv","mgtv","wasu","bilibili","leduo","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺"],
