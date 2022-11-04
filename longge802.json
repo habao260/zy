@@ -218,17 +218,18 @@
 {"key": "drpy_js_玩偶姐姐","name": " 😚玩偶姐姐 [DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/18/玩偶姐姐.js "},
 
 ##others
-{"key": "drpy_js_南瓜影院","name": " 🎑南瓜影院[DRPY]","type": 3,"api": "https://raw.fastgit.org//heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org//heroaku/TVboxo/main/Js/南瓜影院.js"},
-{"key": "drpy_js_起飞影院","name": " 🎑起飞影院[DRPY]","type": 3,"api": "https://raw.fastgit.org//heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org//heroaku/TVboxo/main/Js/起飞影院.js"},    
-{"key": "drpy_js_HoHo影视","name": " 🎑HoHo影视[DRPY]","type": 3,"api": "https://raw.fastgit.org//heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org//heroaku/TVboxo/main/Js/HoHo影视.js"},  
-{"key": "drpy_js_多瑙影视","name": " 🎑多瑙影视[DRPY]","type": 3,"api": "https://raw.fastgit.org//heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org//heroaku/TVboxo/main/Js/多瑙影视.js"},
-{"key": "drpy_js_小宝影视","name": " 🎑小宝影视[DRPY]","type": 3,"api": "https://raw.fastgit.org//heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org//heroaku/TVboxo/main/Js/小宝影视.js"},
-{"key": "drpy_js_映迷影院","name": " 🎑映迷影院[DRPY]","type": 3,"api": "https://raw.fastgit.org//heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org//heroaku/TVboxo/main/Js/映迷影院.js"},
-{"key": "drpy_js_蛋蛋魔法","name": " 🎑蛋蛋魔法[DRPY]","type": 3,"api": "https://raw.fastgit.org//heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org//heroaku/TVboxo/main/Js/蛋蛋魔法.js"},
-{"key": "drpy_js_霹雳影视","name": " 🎑霹雳影视[DRPY]","type": 3,"api": "https://raw.fastgit.org//heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org//heroaku/TVboxo/main/Js/霹雳影视.js"},
-{"key": "drpy_js_小白菜电影","name": " 🎑小白菜电影[DRPY]","type": 3,"api": "https://raw.fastgit.org//heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org//heroaku/TVboxo/main/Js/小白菜电影.js"},
-{"key": "drpy_js_我爱电影网","name": " 🎑我爱电影网[DRPY]","type": 3,"api": "https://raw.fastgit.org//heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org//heroaku/TVboxo/main/Js/我爱电影网.js"},  
-{"key": "drpy_js_子子影视","name": " 🎑子子影视[DRPY]","type": 3,"api": "https://raw.fastgit.org//heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org//heroaku/TVboxo/main/Js/子子影视.js"},
+{"key": "drpy_js_南瓜影院","name": " 🎑南瓜影院[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/南瓜影院.js"},
+{"key": "drpy_js_起飞影院","name": " 🎑起飞影院[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/起飞影院.js"},    
+{"key": "drpy_js_HoHo影视","name": " 🎑HoHo影视[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/HoHo影视.js"},  
+{"key": "drpy_js_多瑙影视","name": " 🎑多瑙影视[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/多瑙影视.js"},
+{"key": "drpy_js_小宝影视","name": " 🎑小宝影视[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/小宝影视.js"},
+{"key": "drpy_js_映迷影院","name": " 🎑映迷影院[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/映迷影院.js"},
+{"key": "drpy_js_蛋蛋魔法","name": " 🎑蛋蛋魔法[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/蛋蛋魔法.js"},
+{"key": "drpy_js_霹雳影视","name": " 🎑霹雳影视[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/霹雳影视.js"},
+{"key": "drpy_js_小白菜电影","name": " 🎑小白菜电影[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/小白菜电影.js"},
+{"key": "drpy_js_我爱电影网","name": " 🎑我爱电影网[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/我爱电影网.js"},  
+{"key": "drpy_js_子子影视","name": " 🎑子子影视[DRPY]","type": 3,"api": "https://raw.fastgit.org/heroaku/TVboxo/main/libs/drpy.ym.js","ext": "https://raw.fastgit.org/heroaku/TVboxo/main/Js/子子影视.js"},
+
 
 
 
