@@ -342,7 +342,6 @@
 {"key":"csp_xbb_稀饭影视","name":"稀饭影视（XB）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/gaotianliuyun/gao/master/json/稀饭影视.json"}
 ],
 
-],
 
 // 解析
 "parses":
