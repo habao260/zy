@@ -5,7 +5,7 @@
 		"group": "redirect",
 		"channels": [{
 			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9qYWNrc29uMDgyOS5naXRodWIuaW8vVFcudHh0"]
 		}]
 	}],
     "wallpaper":"https://tool.weetai.cn/api",
