@@ -255,7 +255,6 @@
 {"key":"csp_XYQBiu_fositv","name":"🐝Fositv〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/Fositv.json"},
 {"key":"csp_XYQBiu_kmy","name":"💢酷蚂蚁〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/酷蚂蚁.json"},
 {"key":"csp_XYQBiu_wnys","name":"🧞♂️万能影视〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/万能影视.json"},
-{"key":"csp_XYQBiu_lyys","name":"🌀凌云影视〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/凌云影视.json"},
 {"key":"csp_XYQBiu_E9视频","name":"🎗E9视频〔XYQ〕","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/E9视频.json"},
 
  
@@ -266,11 +265,7 @@
 {"key":"csp_xBPQ_蓝光影视","name":"💿蓝光影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/蓝光影院.json"},
 {"key":"csp_xBPQ_子子影视","name":"👶子子影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/子子影视.json"},
 {"key":"csp_xBPQ_极品影视","name":"🌈极品影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/极品影视.json"},
-{"key":"csp_xBPQ_低端影视","name":"低端影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/低端影视.json"},
-{"key":"csp_xBPQ_188影视","name":"188影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/188影视.json"},
 {"key":"csp_xBPQ_52看剧","name":"52看剧(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/52看剧.json"},
-{"key":"csp_xBPQ_539影视","name":"539影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/539影视.json"},
-{"key":"csp_xBPQ_Freeok","name":"Freeok(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/Freeok.json"},
 {"key":"csp_xBPQ_HDIK","name":"HDIK(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/HDIK.json"},
 {"key":"csp_xBPQ_Nike影视网","name":"Nike影视网(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/Nike影视网.json"},
 {"key":"csp_xBPQ_剧迷","name":"剧迷(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/剧迷.json"},
@@ -279,7 +274,6 @@
 {"key":"csp_xBPQ_豆角网","name":"豆角网(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/豆角网.json"},
 {"key":"csp_xBPQ_快看","name":"快看(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/快看.json"},
 {"key":"csp_xBPQ_l0l影院","name":"🔍l0l影院(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/l0l影院.json"},
-{"key":"csp_xBPQ_1080在线","name":"🌞1080在线(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/1080在线.json"},
 {"key":"csp_xBPQ_Voflix","name":"🌊Voflix(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/Voflix.json"},
 {"key":"csp_xBPQ_七小时影院","name":"🖥七小时影院(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/七小时影院.json"},
 {"key":"csp_xBPQ_宝仙","name":" ⚔宝仙(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/宝仙.json"},
@@ -289,7 +283,6 @@
 {"key":"csp_xBPQ_真不卡","name":"️🐽真不卡(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/真不卡.json"},
 {"key":"csp_xBPQ_电影先生","name":"️👨电影先生(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/电影先生.json"},
 {"key":"csp_xBPQ_胖虎影视","name":"🐅胖虎影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/胖虎影视.json"},
-{"key":"csp_xBPQ_干饭影视","name":"🍨干饭影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/干饭影视.json"},
 {"key":"csp_xBPQ_热播库","name":" 👼热播库(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/热播库.json"},
 
 
