@@ -29,7 +29,6 @@
 {"key":"csp_百影视频","name":"🌀百影视频(SP)","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175","jar":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/qj1122.jar"},
 {"key":"csp_niketv_spider","name":"💮耐客TV(SP)","api":"csp_NikeTV","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"","jar":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/qj1122.jar"},
 {"key":"csp_棉花影视","name":"🌾棉花影视(SP)","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126","jar":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/qj1122.jar"},
-{"key":"yanetflix_spider","name":"奈飞影视（SP）","api":"csp_YaNetFlix","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"","jar":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/jar/qj1122.jar"},
 {"key":"csp_Bttoo","name":"💦两个BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xxys","name":"🐻小熊〔SP〕","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"⛈️酷云七七〔SP〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
