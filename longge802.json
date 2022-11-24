@@ -2,7 +2,6 @@
 // jar
 //"spider":"https://raw.iqiq.io/shadowchiu369/TVBox/main/jar/sc.jar;md5;9cb78672b4f71e1d156a9d7a6e657044",
 //"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;CC30F5AD01008CBFBE7CCBAB843F2F0E",
-//"spider":"https://raw.iqiq.io/gaotianliuyun/gao/master/jar/xo1104.jar;md5;c2fdb3ab4e4c508eec61b357ed4e1488", 
 "spider":"https://gitee.com/suanjin/jar/raw/main/shenqi.jar;md5;b7c21f167594e0f27da423785c0b8d00",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
@@ -95,7 +94,8 @@
 {"key": "drpy_js_88看球","name": " 😚88看球[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/88看球.js"},
 {"key": "drpy_js_8号影院","name": " 😚8号影院[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/8号影院.js"},
 {"key": "drpy_js_AGE动漫","name": " 😚AGE动漫[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AGE动漫.js"},
-{"key": "drpy_js_AnFuns动漫","name": " 😚AnFuns动漫[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AnFuns.js"},
+{"key": "drpy_js_AnFuns动漫","name": "😚AnFuns动漫[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/AnFuns.js"},
+{"key": "drpy_js_BD360","name": " 😚BD360[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/BD360.js"},
 {"key": "drpy_js_DJ音乐","name": " 😚DJ音乐[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/DJ音乐.js"},
 {"key": "drpy_js_Fun4K","name": " 😚Fun4K[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/Fun4K.js"},
 {"key": "drpy_js_HDmoli","name": " 😚HDmoli[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/HDmoli.js"},
