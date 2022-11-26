@@ -1,17 +1,17 @@
 {
-"spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;31c827630ca9bb126c47afcc01279dc0",
+"spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;ad5e07a700c8b50e0eb03e20422c788d",
 //直播
 "lives": [{
 		"group": "redirect",
 		"channels": [{
 			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9qYWNrc29uMDgyOS5naXRodWIuaW8vVFcudHh0"]
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9oYWJhbzI2MC96eS9tYWluL0xpdmUvYWQudHh0"]
 		}]
 	}],
     "wallpaper":"https://tool.weetai.cn/api",
 
   "sites": [
-    {
+   {
       "key": "AList",
       "name": "AList",
       "type": 3,
@@ -116,7 +116,7 @@
       "api": "csp_Paper",
       "searchable": 1,
       "filterable": 1,
-      "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
+      "ext": "http://ali.xn--sss604efuw.ml/tok"
     },
     {
       "key": "易搜",
@@ -125,7 +125,7 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "filterable": 0,
-      "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
+      "ext": "http://ali.xn--sss604efuw.ml/tok"
     },
     {
       "key": "盤搜",
@@ -134,7 +134,7 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "filterable": 0,
-      "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
+      "ext": "http://ali.xn--sss604efuw.ml/tok"
     },
     {
       "key": "push_agent",
@@ -143,7 +143,7 @@
       "api": "csp_Push",
       "searchable": 1,
       "filterable": 0,
-      "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
+      "ext": "http://ali.xn--sss604efuw.ml/tok"
     },
   {"key":"ASMR","name":"ASMR(优)","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1},
   {"key": "csp_xBPQ-四虎","name": "🏆四虎","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/H/xBPQ/四虎.json"},
