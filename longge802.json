@@ -30,7 +30,7 @@
 {"key":"csp_SP361","name":"3️⃣360影视〔SP〕","type":3,"api":"csp_SP360","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"📺低端影视","type":3,"api":"csp_Ddrk","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_小苹果","name": "🍎小苹果(SP)","type": 3,"api": "csp_LiteApple","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_小苹果","name": "🍎小苹果(SP)","type": 3,"api": "csp_LiteApple","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_ZJMiao","name":"🐼新视觉┃SP","type":3,"api":"csp_Xinsj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_剧荒","name": "🎉剧荒（SP）","type": 3,"api": "csp_Juhuang","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Nmys","name":"🥝农民","type":3,"api":"csp_Nmys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"},
@@ -43,7 +43,7 @@
 {"key": "Zjdr","name": "🏎追剧达人","type":3,"api": "csp_Zjdr","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_LibVio","name":"🌊LibVio(SP)","type":3,"api":"csp_Lib","playerType":2,"searchable":1,"quickSearch": 1,"filterable":1},
 {"key": "csp_spider_Auete","name":"🏔Auete影院(SP)","type": 3,"api": "csp_Auete","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_Cokemv","name":"💎Cokemv","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Cokemv","name":"💎Cokemv","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Lgyy","name": "📀蓝光","type": 3,"api": "csp_Lgyy","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"teng","name":"🐧腾讯视频","type": 3,"api":"csp_QQ","playerType":2,"searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"csp_MGTV","name":"🥭芒果TV〔SP〕","type":3,"api":"csp_MGTV","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
@@ -295,7 +295,7 @@
 {"key":"csp_xBPQ_胖虎影视","name":"🐅胖虎影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/胖虎影视.json"},
 {"key":"csp_xBPQ_热播库","name":" 👼热播库(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/shadowchiu369/TVBox/main/XYQ/热播库.json"},
 
-
+ {"key":"csp_XBPQ宅腐TV","name":" 🍂宅腐TV〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/宅腐TV.json"},
 {"key":"csp_XBPQ皮皮泡影视","name":"🎈皮皮泡影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/皮皮泡影视.json"}, 
 {"key":"csp_xBPQ_番茄影视","name":"🍅番茄影视 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/%E7%95%AA%E8%8C%84%E5%BD%B1%E8%A7%86.json"},
 {"key":"csp_xBPQ_巨人影院","name":"👣巨人影院 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/heroaku/TVboxo/main/XBPQ/%E5%B7%A8%E4%BA%BA%E5%BD%B1%E8%A7%86.json"},	  
