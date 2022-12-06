@@ -22,7 +22,7 @@
 {"key":"csp_Ysgc","name":"🏭工厂〔SP〕","type":3,"api":"csp_Ysgc","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy1010","name":"🍏双十〔SP〕","type":3,"api":"csp_Dy1010","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nkdy","name":"🍎南柯〔SP〕","type":3,"api":"csp_Nkdy","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar"},
 {"key": "csp_ny","name": "念影","type": 3,"api": "csp_Nianying","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Tkys","name":"☁天空〔SP〕","type":3,"api":"csp_Tkys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xxys","name":"🐻小熊〔SP〕","type":3,"api":"csp_Xxys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
