@@ -146,6 +146,7 @@
 {"key": "drpy_js_在线之家","name":"在线之家[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/在线之家.js"},
 {"key": "drpy_js_城市电影","name":"城市电影[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/城市电影.js"},
 {"key": "drpy_js_夜空","name":"夜空[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/夜空.js"},
+{"key": "drpy_js_大中影视","name":"大中影视[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/大中影视.js"},
 {"key": "drpy_js_大师兄影视","name":"大师兄影视[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/大师兄影视.js"},
 {"key": "drpy_js_大米星球","name":"大米星球[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/大米星球.js"},
 {"key": "drpy_js_天天视频","name":"天天视频[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/天天视频.js"},
@@ -239,26 +240,26 @@
 {"key": "drpy_js_麦豆com","name": "麦豆com [DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/麦豆com.js"},
 
 ##tg
-{"key": "drpy_js_MXONE","name": "MXONE [DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/MXONE.js "},
-{"key": "drpy_js_Nike影视","name": "Nike影视[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/Nike影视.js "},
-{"key": "drpy_js_TV云播","name": "TV云播 [DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/TV云播.js "},
-{"key": "drpy_js_两个BT","name": "两个BT [DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/两个BT.js "},
-{"key": "drpy_js_剧迷","name": "剧迷 [DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/剧迷.js "},
-{"key": "drpy_js_天空影视","name": "天空影视 [DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/天空影视.js "},
-{"key": "drpy_js_快云","name": "快云 [DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/快云影院.js "},
-{"key": "drpy_js_爱看影视","name": "爱看影视 [DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/爱看影视.js "},
-{"key": "drpy_js_特狗","name": "特狗 [DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/特狗影视.js "},
-{"key": "drpy_js_皮皮泡","name": "皮皮泡 [DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/皮皮泡.js "},
+{"key": "drpy_js_MXONE","name":"MXONE [D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/MXONE.js "},
+{"key": "drpy_js_Nike影视","name":"Nike影视[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/Nike影视.js "},
+{"key": "drpy_js_TV云播","name":"TV云播[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/TV云播.js "},
+{"key": "drpy_js_两个BT","name":"两个BT[DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/两个BT.js "},
+{"key": "drpy_js_剧迷","name":"剧迷[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/剧迷.js "},
+{"key": "drpy_js_天空影视","name":"天空影视[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/天空影视.js "},
+{"key": "drpy_js_快云","name":"快云[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/快云影院.js "},
+{"key": "drpy_js_爱看影视","name":"爱看影视[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/爱看影视.js "},
+{"key": "drpy_js_特狗","name":"特狗[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/特狗影视.js "},
+{"key": "drpy_js_皮皮泡","name":"皮皮泡[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/皮皮泡.js "},
 
 
 ##18
-{"key": "drpy_js_18av","name":"😚18av [DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/18/18av.js "},
-{"key": "drpy_js_Missav","name":"😚Missav [DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/18/Missav.js "},
-{"key": "drpy_js_banan","name":"😚banan [DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/18/banan.js "},
-{"key": "drpy_js_养端","name":"😚养端 [DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/18/养端.js "},
-{"key": "drpy_js_吸瓜","name":"😚吸瓜 [DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/18/吸瓜.js "},
-{"key": "drpy_js_朱古力","name":"😚朱古力 [DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/18/朱古力.js "},
-{"key": "drpy_js_玩偶姐姐","name":"😚玩偶姐姐 [DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/18/玩偶姐姐.js "},
+{"key": "drpy_js_18av","name":"😚18av[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/18/18av.js "},
+{"key": "drpy_js_Missav","name":"😚Missav[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/18/Missav.js "},
+{"key": "drpy_js_banan","name":"😚banan[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/18/banan.js "},
+{"key": "drpy_js_养端","name":"😚养端[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/18/养端.js "},
+{"key": "drpy_js_吸瓜","name":"😚吸瓜[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/18/吸瓜.js "},
+{"key": "drpy_js_朱古力","name":"😚朱古力[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/18/朱古力.js "},
+{"key": "drpy_js_玩偶姐姐","name":"😚玩偶姐姐[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/18/玩偶姐姐.js "},
 
 
 
