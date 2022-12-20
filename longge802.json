@@ -84,7 +84,7 @@
 {"key": "drpy_js_348电影网","name":"348电影网[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/348电影网.js"},
 {"key": "drpy_js_360影视","name":"360影视[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/360影视.js"},
 {"key": "drpy_js_539影院","name":"539影院[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/539影院.js"},
-{"key": "drpy_js_555影视","name":"555影视[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/555影视.js"},
+{"key": "drpy_js_555影视","name":"555影视[D飞]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/555影视[飞].js"},
 {"key": "drpy_js_69美剧","name":"69美剧[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/69美剧.js"},
 {"key": "drpy_js_7喜影院","name":"7喜影院[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/7喜影院.js"},
 {"key": "drpy_js_88看球","name":"88看球[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/88看球.js"},
@@ -185,6 +185,7 @@
 {"key": "drpy_js_海盗听书","name":"海盗听书[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/海盗听书.js"},
 {"key": "drpy_js_溪谷影视","name":"溪谷影视[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/溪谷影视.js"},
 {"key": "drpy_js_热播库","name":"热播库[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/热播库.js"},
+{"key": "drpy_js_爱弹幕","name":"爱弹幕[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/爱弹幕.js"},
 {"key": "drpy_js_爱看","name":"爱看[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/爱看.js"},
 {"key": "drpy_js_爱车MV","name":"爱车MV[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/爱车MV.js"},
 {"key": "drpy_js_爱迪影视","name":"爱迪影视[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/爱迪影视.js"},
@@ -237,7 +238,7 @@
 {"key": "drpy_js_骚火","name":"骚火[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/骚火.js"},
 {"key": "drpy_js_鸭奈飞","name":"鸭奈飞[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/鸭奈飞.js"},
 {"key": "drpy_js_麦豆","name":"麦豆[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/麦豆.js"},
-{"key": "drpy_js_麦豆com","name": "麦豆com [DRPY]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/麦豆com.js"},
+{"key": "drpy_js_麦豆com","name":"麦豆com[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/麦豆com.js"},
 
 ##tg
 {"key": "drpy_js_MXONE","name":"MXONE [D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": " https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/js/tg/MXONE.js "},
