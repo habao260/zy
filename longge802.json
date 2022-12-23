@@ -82,6 +82,7 @@
  
  ##drpy
 {"key": "drpy_js_007影视","name":"007影视[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/007影视.js"},
+{"key": "drpy_js_100影院","name":"100影院[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/100影院.js"},
 {"key": "drpy_js_1080P","name":"1080P[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/1080P.js"},
 {"key": "drpy_js_188看","name":"188看[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/188看.js"},
 {"key": "drpy_js_310直播","name":"310直播[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/310直播.js"},
@@ -131,6 +132,7 @@
 {"key": "drpy_js_优酷","name":"优酷[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/优酷.js"},
 {"key": "drpy_js_兔小贝","name":"兔小贝[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/兔小贝.js"},
 {"key": "drpy_js_兰花影院","name":"兰花影院[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/兰花影院.js"},
+{"key": "drpy_js_农民影视","name":"农民影视[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/农民影视.js"},
 {"key": "drpy_js_冲TMTV","name":"冲TMTV[飞][D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/冲TMTV[飞].js"},
 {"key": "drpy_js_凌云影视","name":"凌云影视[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/凌云影视.js"},
 {"key": "drpy_js_剧白白","name":"剧白白[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/剧白白.js"},
@@ -244,6 +246,7 @@
 {"key": "drpy_js_量子影视","name":"量子影视[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/量子影视.js"},
 {"key": "drpy_js_金曼影视","name":"金曼影视[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/金曼影视.js"},
 {"key": "drpy_js_饭团","name":"饭团[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/饭团.js"},
+{"key": "drpy_js_饭团影视","name":"饭团影视[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/饭团影视.js"},
 {"key": "drpy_js_首播影院","name":"首播影院[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/首播影院.js"},
 {"key": "drpy_js_骚火","name":"骚火[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/骚火.js"},
 {"key": "drpy_js_鸭奈飞","name":"鸭奈飞[D]","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/鸭奈飞.js"},
