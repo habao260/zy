@@ -55,6 +55,7 @@
 {"key":"csp_MGTV","name":"🥭芒果TV〔SP〕","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_IQIYI","name":"🥝爱奇艺〔SP〕","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"世界杯","name":"一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;8481717fcdfae2e4a375219222c32358"},
+{"key":"Dy555","name":"555","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;8481717fcdfae2e4a375219222c32358"},
 {"key":"IKan","name":"💖爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;8481717fcdfae2e4a375219222c32358"},
 {"key":"Tbook","name":"🌿听书网","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;8481717fcdfae2e4a375219222c32358"},
 {"key":"Yanet","name":"🦆鸭奶飞","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"a369b1f623fe86605f1b029f0cf66349","jar":"https://gitee.com/suanjin/jar/raw/main/custom_spider.jar;md5;8481717fcdfae2e4a375219222c32358"},
