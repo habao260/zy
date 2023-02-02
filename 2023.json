@@ -2,8 +2,6 @@
 // jar
 "spider":"https://agit.ai/habao260/ZY/raw/branch/master/jar/xo.jar;md5;25ef473f28589c63047827f1fe886990",
 //"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;5F7E225597A5CAA094F8406E774BA8DE",
-//"spider":"https://gitee.com/suanjin/jar/raw/main/xo1213.jar;md5;7c1a0d8c2662811262b13e59b1dcb3f2",
-
 
  
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
@@ -373,8 +371,11 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"Json聚合","type":3,"url":"Demo"},
+{"name": "布雷解析","url": "https://tv.bulei.cc/bfq/?url="},
+{"name":"万年魂环解析1","type":1,"url":"http://15.165.180.3:57255/api.php?url="},
+{"name":"json","type":1,"url":"https://k.json.icu/home/api?type=ys&uid=2774542&key=abfhlmnortvEHL1367&url=","header":{"User-Agent":"Mozilla/5.0"}}],
 {"name":"Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=","header":{"User-Agent":"Mozilla/5.0"}},
-{"name": "Q1解析备用","type": 1,"url": "https://parse.ikunfk.cc/parse/sign/20230117?url=","header": {"User-Agent": "Mozilla/5.0"}},
+{"name":"星辰云","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=22ea7ae4746073f5ea13e9079c024c7d&url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"91","url":"http://91fanli.top/m3u8/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"解析la","url":"https://api.jiexi.la/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"PM","url":"https://www.playm3u8.cn/jiexi.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
